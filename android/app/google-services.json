@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239269195660",
+    "firebase_url": "https://cryptowallet-43edc.firebaseio.com",
+    "project_id": "cryptowallet-43edc",
+    "storage_bucket": "cryptowallet-43edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239269195660:android:40dd4ed6e33e186376b0a9",
+        "android_client_info": {
+          "package_name": "com.example.cryptoWallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239269195660-v02puktbahl52miap4i54n1anhs6vkp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxm7k55ZLJ3Hx4chtooy8cbS3MtagSKg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239269195660-v02puktbahl52miap4i54n1anhs6vkp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
